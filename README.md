@@ -1,1 +1,1 @@
-These are some Regression and Classification machine learning problmes with Python in Jupyter Notebook.
+These are some Regression and Classification machine learning prediction problmes with Python in Jupyter Notebook.
